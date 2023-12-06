@@ -1,4 +1,4 @@
-# souvla_cooking
+# Souvla Cooking
 
 Python code created using Dedalus v3 to simulate the cooking of Cyprus' national dish, souvla, over a foukou (grill).
 
